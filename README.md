@@ -5,9 +5,9 @@ Desenvolvido no Unity 2D utilizando linguagem C#.
 Como eu me Sinto no Hospital, foi a gamificação de uma abordagem terapéutica, direcionado à crianças em estado pré e pós operatório. 
 Trata-se de um jogo de tabuleiro com cartas de pergunta e resposta. 
 
-<img src="Prints/tela1.png" width="500" align ="center">
-<img src="Prints/tela2.png" width="500" align ="center">
-<img src="Prints/tela3.png" width="500" align ="center">
+<img src="Prints/tela1.png" width="500" float="center">
+<img src="Prints/tela2.png" width="500" float="center">
+<img src="Prints/tela3.png" width="500" float="center">
 
 ## Diferencial
 * Escalabilidade
