@@ -25,8 +25,8 @@ Trata-se de um jogo de tabuleiro com cartas de pergunta e resposta.
 ## Desenvolvedores
 * Bruno Dias
 * Mariana Gonzalez
-* Marcelo Fortes[marcelo]:https://github.com/MarceloFortesGC
+* [Marcelo Fortes][marcelo].
 * Thainá Weingartner
 
 
-
+[marcelo]:https://github.com/MarceloFortesGC
