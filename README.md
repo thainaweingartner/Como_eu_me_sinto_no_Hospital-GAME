@@ -23,11 +23,11 @@ Trata-se de um jogo de tabuleiro com cartas de pergunta e resposta.
 * Acrescentar outras informações do player e do aplicador
 
 ## Desenvolvedores
-* Bruno Dias
+* [Bruno Dias][bruno]
 * Mariana Gonzalez
 * [Marcelo Fortes][marcelo]
 * [Thainá Weingartner][thaina]
 
-
+[bruno]:https://github.com/TheBrunoDias
 [marcelo]:https://github.com/MarceloFortesGC
 [thaina]:https://github.com/thainaweingartner
